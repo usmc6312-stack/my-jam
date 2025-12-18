@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio on My New Hugo Site</title>
+    <link>http://localhost/</link>
+    <description>Recent content in My Portfolio on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Dec 2025 16:06:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Portfolio</title>
+      <link>http://localhost/projects/my-first-portfolio/</link>
+      <pubDate>Thu, 18 Dec 2025 16:06:29 +0000</pubDate>
+      <guid>http://localhost/projects/my-first-portfolio/</guid>
+      <description>&lt;p&gt;A basic Hugo portfolio site takes about 15–30 minutes to stand up from scratch using the CLI and git.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-install-prerequisites&#34;&gt;1. Install prerequisites&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo (extended) using your OS package manager (for example on macOS: &lt;code&gt;brew install hugo&lt;/code&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Confirm it works: &lt;code&gt;hugo version&lt;/code&gt; should print the installed version.&lt;/li&gt;&#xA;&lt;li&gt;Install Git if you do not already have it, and verify with &lt;code&gt;git --version&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-scaffold-a-new-hugo-site&#34;&gt;2. Scaffold a new Hugo site&lt;/h2&gt;&#xA;&lt;p&gt;Run these in a parent “projects” directory:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
